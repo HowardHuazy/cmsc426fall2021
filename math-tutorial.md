@@ -396,6 +396,6 @@ $$
 N = \frac{\log\left(1-p\right)}{\log\left(1-\left( 1 - e\right)^2 \right)}
 $$
 
-To put this in perspective, we **only need 17 iterations to be 95% sure that we'll find a good solution even with 50% outliers.** 
+To put this in perspective, we **only need 11 iterations to be 95% sure that we'll find a good solution even with 50% outliers.** 
 
 Another voting scheme which works well for fitting curves with lesser number of parameters is the [Hough Transform](https://en.wikipedia.org/wiki/Hough_transform). This is left as a self-reading article. 
